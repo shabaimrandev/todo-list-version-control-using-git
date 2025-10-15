@@ -1,2 +1,19 @@
-# todo-list-version-control-using-git
-This repository will enable students learn version control using git.
+# 📝 To-Do List App
+
+A clean and responsive **To-Do List** built with HTML, CSS, and JavaScript.
+
+## ✨ Features
+- Add, complete, and delete tasks  
+- Automatically saves tasks in localStorage  
+- Restores tasks after reload  
+- Responsive layout and minimal UI  
+
+## 🚀 Usage
+1. Type a task and click **Add** (or press Enter).
+2. Click a task to mark as **done**.
+3. Click **×** to delete it.
+
+## 🧠 Technologies
+- HTML5  
+- CSS3 (Flexbox)  
+- JavaScript (ES6)
