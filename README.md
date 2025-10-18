@@ -17,3 +17,8 @@ A clean and responsive **To-Do List** built with HTML, CSS, and JavaScript.
 - HTML5  
 - CSS3 (Flexbox)  
 - JavaScript (ES6)
+
+## 📄 License
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+You’re free to use, modify, and share this code for learning or personal projects. Attribution is appreciated but not required.
